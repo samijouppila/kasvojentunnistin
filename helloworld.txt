@@ -1,2 +1,7 @@
 Hello World!
+asdasdasdas3253245hrh2345
+<<<<<<< HEAD
 hello world 12312312312312321312312312312
+=======
+New row for merge conflict test
+>>>>>>> 79736cae3e8b1ce82605bd00f0bcfc0bb1c8fb22
